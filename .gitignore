@@ -1,0 +1,7 @@
+__pycache__
+.venv
+eg
+build
+dist
+ignore-*.*
+tea_web.egg-info
